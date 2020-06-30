@@ -1,0 +1,13 @@
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\obj\Debug\netcoreapp3.1\Tugas9.csprojAssemblyReference.cache
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\obj\Debug\netcoreapp3.1\Tugas9.csproj.CoreCompileInputs.cache
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\obj\Debug\netcoreapp3.1\Tugas9.AssemblyInfoInputs.cache
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\obj\Debug\netcoreapp3.1\Tugas9.AssemblyInfo.cs
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\bin\Debug\netcoreapp3.1\Tugas9.exe
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\bin\Debug\netcoreapp3.1\Tugas9.deps.json
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\bin\Debug\netcoreapp3.1\Tugas9.runtimeconfig.json
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\bin\Debug\netcoreapp3.1\Tugas9.runtimeconfig.dev.json
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\bin\Debug\netcoreapp3.1\Tugas9.dll
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\bin\Debug\netcoreapp3.1\Tugas9.pdb
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\obj\Debug\netcoreapp3.1\Tugas9.dll
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\obj\Debug\netcoreapp3.1\Tugas9.pdb
+E:\19.11.2757\Tugas9\Tugas9\Tugas9\obj\Debug\netcoreapp3.1\Tugas9.genruntimeconfig.cache
